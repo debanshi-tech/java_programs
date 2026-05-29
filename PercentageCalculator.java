@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 class PercentageCalculator {
   public static void main (String []args) {
     Scanner per = new Scanner (System.in);
